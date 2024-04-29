@@ -16,7 +16,7 @@
 
 | # | Course | Diploma |  |
 | -------- | -------- | -------- | -------- |
-| 1 | Lógica de Programação Essencial | [Certificado](https://www.dio.me/en/certificate/0A932922/share) | <img src="./certificates/img/0A932922.webp" width: "80px" alt="Certificado"/> |
+| 1 | Lógica de Programação Essencial | [Certificado](https://www.dio.me/en/certificate/0A932922/share) | <img src="./certificates/img/0A932922.webp" style="width:80px" alt="Certificado"/> |
 
 
 - 👯 I’m looking to collaborate on free software projects...
