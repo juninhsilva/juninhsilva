@@ -4,7 +4,6 @@
 
 ### Hi 👽, I'm here just to learn about programming and exchange experiences about computing.
 
-<!--
 - 🔭 I’m currently working on SEEMG. This is not my formation area, but I always deal with IT...
 -----
 - 🌱 I’m currently learning:
@@ -16,9 +15,9 @@ Javascript, Angular and React...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width:"80px" alt="Java"/>
 -----
 - My courses
-| Course | Diploma |
-| ------- | -------- |
-| Lóogica de Programação Essencial | [](https://www.dio.me/en/certificate/0A932922/share)
+| Course | Diploma | |
+| ------- | -------- | -------- |
+| Lógica de Programação Essencial | [](https://www.dio.me/en/certificate/0A932922/share) | <img src="./certificates/img/0A932922.webp" width: "80px" alt="Certificado"/>
 
 - 👯 I’m looking to collaborate on free software projects...
 -----
@@ -30,4 +29,3 @@ Javascript, Angular and React...
 -----
 - ⚡ Fun fact: Somehow I'll always get where I want...
 -----
--->
