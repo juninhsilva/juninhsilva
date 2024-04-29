@@ -14,7 +14,8 @@ Javascript, Angular and React...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width:"80px" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width:"80px" alt="Java"/>
 -----
-- My courses
+### My courses
+
 | Course | Diploma | |
 | ------- | -------- | -------- |
 | Lógica de Programação Essencial | [](https://www.dio.me/en/certificate/0A932922/share) | <img src="./certificates/img/0A932922.webp" width: "80px" alt="Certificado"/>
