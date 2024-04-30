@@ -17,8 +17,11 @@
 | # | Course | Diploma |  |
 | -------- | -------- | -------- | -------- |
 | 1 | Lógica de Programação Essencial | [Certificado](https://www.dio.me/en/certificate/0A932922/share) | <img src="./certificates/img/0A932922.webp" style="width:80px" alt="Certificado"/> |
-
-
+| 2 | Introdução ao Git e Controle de Versões | [Certificado](https://www.dio.me/en/certificate/D007D355/share) | <img src="./certificates/img/D007D355.webp" style="width:80px" alt="Certificado"/> |
+| 3 | Introdução ao Git e comandos para trabalhar em equipe | [Certificado](https://www.dio.me/en/certificate/58F140E3/share) | <img src="./certificates/img/58F140E3.webp" style="width:80px" alt="Certificado"/> |
+| 4 | Programação para internet com JavaScript | [Certificado](https://www.dio.me/en/certificate/48A3D686/share) | <img src="./certificates/img/48A3D686.webp" style="width:80px" alt="Certificado"/> |
+| 5 | Projetos Ágeis com SCRUM | [Certificado](https://www.dio.me/en/certificate/BC5DFC3F/share) | <img src="./certificates/img/BC5DFC3F.webp" style="width:80px" alt="Certificado"/> |
+| 6 | Desenvolvimento básico em Java | [Certificado](https://www.dio.me/en/certificate/70CE85FA/share) | <img src="./certificates/img/70CE85FA.webp" style="width:80px" alt="Certificado"/> |
 - 👯 I’m looking to collaborate on free software projects...
 - 🤔 I’m looking for help with my projects too. Good ideas are always welcome...
 - 💬 Ask me about anything, but I cannot answer precisely about everything...
