@@ -14,7 +14,7 @@
 -----
 ### My courses
 
-| # | Course | Diploma  |
+| # | Course | Diploma |  |
 | -------- | -------- | -------- | -------- |
 | 1 | Lógica de Programação Essencial | [Certificado](https://www.dio.me/en/certificate/0A932922/share) | <img src="./certificates/img/0A932922.webp" style="width:80px" alt="Certificado"/> |
 | 2 | Introdução ao Git e Controle de Versões | [Certificado](https://www.dio.me/en/certificate/D007D355/share) | <img src="./certificates/img/D007D355.webp" style="width:80px" alt="Certificado"/> |
