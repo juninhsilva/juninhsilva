@@ -9,8 +9,16 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:80px" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:80px" alt="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" style="width:80px" alt="C"/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" style="width:80px" alt="DotNet Framework"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width:80px" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width:80px" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:80px" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width:80px" alt="Spring Framework"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" style="width:80px" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="width:80px" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:80px" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width:80px" alt="C"/>
 -----
 ### My courses
 
@@ -48,26 +56,26 @@
 | 30 | Inovação Aberta e Ecossistema de Inovação | [Certificado](https://www.dio.me/en/certificate/22439D8B/share) | <img src="./certificates/img/22439D8B.webp" style="width:80px" alt="Certificado"/> |
 | 31 | Especialista em Inovação Digital | [Certificado](https://www.dio.me/en/certificate/20076AED/share) | <img src="./certificates/img/20076AED.webp" style="width:80px" alt="Certificado"/> |
 | 32 | Desafio prático: Criando uma home com Styled Components | [Certificado](https://www.dio.me/en/certificate/959F9129/share) | <img src="./certificates/img/959F9129.webp" style="width:80px" alt="Certificado"/> |
-<!--
-| 8 | Mentalidade Empreendedora | [Certificado](https://www.dio.me/en/certificate/D0CEA850/share) | <img src="./certificates/img/D0CEA850.webp" style="width:80px" alt="Certificado"/> |
-| 9 | Introduçao ao domain driver design e padrões de arquitetura | [Certificado](https://www.dio.me/en/certificate/91109649/share) | <img src="./certificates/img/91109649.webp" style="width:80px" alt="Certificado"/> |
-| 10 | JavaScript ES6 essencial | [Certificado](https://www.dio.me/en/certificate/83DFF87A/share) | <img src="./certificates/img/83DFF87A.webp" style="width:80px" alt="Certificado"/> |
-| 11 | Arquitetura de Sistemas Avançado | [Certificado](https://www.dio.me/en/certificate/76E6B82D/share) | <img src="./certificates/img/76E6B82D.webp" style="width:80px" alt="Certificado"/> |
-| 12 | Fundamentos de Arquitetura de Sistemas | [Certificado](https://www.dio.me/en/certificate/8FDCC28D/share) | <img src="./certificates/img/8FDCC28D.webp" style="width:80px" alt="Certificado"/> |
-| 13 | Programação para internet com HTML5 e CSS3 | [Certificado](https://www.dio.me/en/certificate/E5560A0F/share) | <img src="./certificates/img/E5560A0F.webp" style="width:80px" alt="Certificado"/> |
-| 14 | Construindo páginas para internet com Bootstrap | [Certificado](https://www.dio.me/en/certificate/A6375727/share) | <img src="./certificates/img/A6375727.webp" style="width:80px" alt="Certificado"/> |
-| 15 | Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis | [Certificado](https://www.dio.me/en/certificate/E60FB89A/share) | <img src="./certificates/img/E60FB89A.webp" style="width:80px" alt="Certificado"/> |
-| 16 | Fundamentos do Intraempreendedorismo | [Certificado](https://www.dio.me/en/certificate/5E9F229A/share) | <img src="./certificates/img/5E9F229A.webp" style="width:80px" alt="Certificado"/> |
-| 17 | Introdução à biblioteca jQuery | [Certificado](https://www.dio.me/en/certificate/482126EE/share) | <img src="./certificates/img/482126EE.webp" style="width:80px" alt="Certificado"/> |
-| 18 | Primeiros passos com .NET | [Certificado](https://www.dio.me/en/certificate/2B97D232/share) | <img src="./certificates/img/2B97D232.webp" style="width:80px" alt="Certificado"/> |
-| 19 | Desafio prático: Recriando o jogo da cobrinha com JavaScript | [Certificado](https://www.dio.me/en/certificate/155D2BF7/share) | <img src="./certificates/img/155D2BF7.webp" style="width:80px" alt="Certificado"/> |
-| 20 | Desafio prático: Entendo Promises de uma vez por todas | [Certificado](https://www.dio.me/en/certificate/184B8FD7/share) | <img src="./certificates/img/184B8FD7.webp" style="width:80px" alt="Certificado"/> |
-| 21 | Modelagem de Negócios | [Certificado](https://www.dio.me/en/certificate/93BE5667/share) | <img src="./certificates/img/93BE5667.webp" style="width:80px" alt="Certificado"/> |
+| 33 | Desafio prático: Criando uma API em Node.js para gerenciar seus crushes | [Certificado](https://www.dio.me/en/certificate/60058B77/share) | <img src="./certificates/img/60058B77.webp" style="width:80px" alt="Certificado"/> |
+| 34 | Introdução ao ReactJS | [Certificado](https://www.dio.me/en/certificate/9AE3EF1B/share) | <img src="./certificates/img/9AE3EF1B.webp" style="width:80px" alt="Certificado"/> |
+| 35 | JavaScript ES6 essencial | [Certificado](https://www.dio.me/en/certificate/7579FABB/share) | <img src="./certificates/img/7579FABB.webp" style="width:80px" alt="Certificado"/> |
+| 36 | Desafio prático: Utilizando Styled Components (CSS-in-JS) | [Certificado](https://www.dio.me/en/certificate/A7D13FB9/share) | <img src="./certificates/img/A7D13FB9.webp" style="width:80px" alt="Certificado"/> |
+| 37 | Desafio prático: Praticando JavaScript com React | [Certificado](https://www.dio.me/en/certificate/8B91E4A1/share) | <img src="./certificates/img/8B91E4A1.webp" style="width:80px" alt="Certificado"/> |
+| 38 | Desafio prático: React.js com TypeScript | [Certificado](https://www.dio.me/en/certificate/072BEF5F/share) | <img src="./certificates/img/072BEF5F.webp" style="width:80px" alt="Certificado"/> |
+| 39 | Desenvolvimento de aplicações para internet com ReactJS | [Certificado](https://www.dio.me/en/certificate/95375BE5/share) | <img src="./certificates/img/95375BE5.webp" style="width:80px" alt="Certificado"/> |
+| 40 | Introdução ao Node.js com Express | [Certificado](https://www.dio.me/en/certificate/474F93DE/share) | <img src="./certificates/img/474F93DE.webp" style="width:80px" alt="Certificado"/> |
+| 41 | Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL | [Certificado](https://www.dio.me/en/certificate/CE822F1B/share) | <img src="./certificates/img/CE822F1B.webp" style="width:80px" alt="Certificado"/> |
+| 42 | Desenvolvimento back-end com Node.js | [Certificado](https://www.dio.me/en/certificate/EA5AB2EF/share) | <img src="./certificates/img/EA5AB2EF.webp" style="width:80px" alt="Certificado"/> |
+| 43 | Desenvolvimento avançado com JavaScript ES6 | [Certificado](https://www.dio.me/en/certificate/61407549/share) | <img src="./certificates/img/61407549.webp" style="width:80px" alt="Certificado"/> |
+| 44 | Desenvolvimento de aplicações com .NET | [Certificado](https://www.dio.me/en/certificate/1143FBE9/share) | <img src="./certificates/img/1143FBE9.webp" style="width:80px" alt="Certificado"/> |
+| 45 | Criando aplicações web com Spring Web MVC | [Certificado](https://www.dio.me/en/certificate/19031D1E/share) | <img src="./certificates/img/184B8FD7.webp" style="width:80px" alt="Certificado"/> |
+
+| 21 | Mo19031D1Edelagem de Negócios | [Certificado](https://www.dio.me/en/certificate/93BE5667/share) | <img src="./certificates/img/93BE5667.webp" style="width:80px" alt="Certificado"/> |
 | 22 | Desafio Prático: TDD com JavaScript | [Certificado](https://www.dio.me/en/certificate/4131FF53/share) | <img src="./certificates/img/4131FF53.webp" style="width:80px" alt="Certificado"/> |
 | 23 | Liderança de Negócios com Cultura Ágil | [Certificado](https://www.dio.me/en/certificate/9A2CFDD4/share) | <img src="./certificates/img/9A2CFDD4.webp" style="width:80px" alt="Certificado"/> |
 | 24 | Criação de Soluções Inovadoras | [Certificado](https://www.dio.me/en/certificate/CA9C2341/share) | <img src="./certificates/img/CA9C2341.webp" style="width:80px" alt="Certificado"/> |
 | 25 | Estratégia de Negócios com OKR | [Certificado](https://www.dio.me/en/certificate/CF69F37D/share) | <img src="./certificates/img/CF69F37D.webp" style="width:80px" alt="Certificado"/> |
--->
+
 - 👯 I’m looking to collaborate on free software projects...
 - 🤔 I’m looking for help with my projects too. Good ideas are always welcome...
 - 💬 Ask me about anything, but I cannot answer precisely about everything...
