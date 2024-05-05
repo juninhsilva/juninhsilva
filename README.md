@@ -5,48 +5,48 @@
 ### Hi 👽, I'm here just to learn about programming and exchange experiences about computing.
 
 - 🔭 I’m currently working on SEEMG. This is not my formation area, but I always deal with IT...
-- I'm very familiarized with GNU/Linux systems...
+- 🤓 I'm very familiarized with GNU/Linux systems...
 - 🌱 I’m currently learning: Javascript, Angular and React...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:80px" alt="GNU/Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:80px" alt="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:80px" alt="Javascript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" style="width:80px" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:80px" alt="Typescript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:80px" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width:80px" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" style="width:80px" alt="DotNet Framework"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:80px" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width:80px" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width:80px" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width:80px" alt="Markdown"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width:80px" alt="Microsoft SQL Server"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:80px" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" style="width:80px" alt="GCC"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width:80px" alt="Spring Framework"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" style="width:80px" alt="Android"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:80px" alt="Github"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="width:80px" alt="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:80px" alt="Bash"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" style="width:80px" alt="Ruby"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width:80px" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" style="width:80px" alt="Gradle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" style="width:80px" alt="Maria DB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:80px" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:80px" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" style="width:80px" alt="JUnit"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" style="width:80px" alt="Hibernate"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" style="width:80px" alt="JSON"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="width:80px" alt="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" style="width:80px" alt="JQuery"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" style="width:80px" alt="Maven"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width:80px" alt="Mongo DB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width:80px" alt="MYSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" style="width:80px" alt="NPM"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" style="width:80px" alt="PfSense"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="width:80px" alt="R"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" style="width:80px" alt="Tomcat"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:80px" alt="GNU/Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:80px" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:80px" alt="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" style="width:80px" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:80px" alt="Typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:80px" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width:80px" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" style="width:80px" alt="DotNet Framework"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:80px" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width:80px" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width:80px" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width:80px" alt="Markdown"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width:80px" alt="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:80px" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" style="width:80px" alt="GCC"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width:80px" alt="Spring Framework"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" style="width:80px" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:80px" alt="Github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="width:80px" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width:80px" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" style="width:80px" alt="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width:80px" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" style="width:80px" alt="Gradle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" style="width:80px" alt="Maria DB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:80px" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:80px" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" style="width:80px" alt="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" style="width:80px" alt="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" style="width:80px" alt="JSON"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="width:80px" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" style="width:80px" alt="JQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" style="width:80px" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width:80px" alt="Mongo DB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width:80px" alt="MYSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-woodmark.svg" style="width:80px" alt="NPM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" style="width:80px" alt="PfSense"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="width:80px" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" style="width:80px" alt="Tomcat"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width:80px" alt="SASS"/>
 
 -----
 ### My courses
