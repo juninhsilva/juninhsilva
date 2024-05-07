@@ -116,15 +116,15 @@
 | Desafio prático: Arquitetura interna no Node e filas | [Certificado](https://www.dio.me/en/certificate/8D7B15A8/share) | <img src="./certificates/img/8D7B15A8.webp" style="width:80px" alt="Certificado"/> |
 | Desafio prático: Como gerenciar o estado de uma aplicação React | [Certificado](https://www.dio.me/en/certificate/C712D53B/share) | <img src="./certificates/img/C712D53B.webp" style="width:80px" alt="Certificado"/> |
 | Desafio prático: Performance Web utilizando JavaScript | [Certificado](https://www.dio.me/en/certificate/F6AFE051/share) | <img src="./certificates/img/F6AFE051.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
+| Introdução ao ReactJS | [Certificado](https://www.dio.me/en/certificate/3D4F8036/share) | <img src="./certificates/img/3D4F8036.webp" style="width:80px" alt="Certificado"/> |
+| Desenvolvimento de aplicações para internet com ReactJS | [Certificado](https://www.dio.me/en/certificate/5172AC82/share) | <img src="./certificates/img/5172AC82.webp" style="width:80px" alt="Certificado"/> |
+| Desenvolvimento avançado com JavaScript ES6 | [Certificado](https://www.dio.me/en/certificate/F7663D0C/share) | <img src="./certificates/img/F7663D0C.webp" style="width:80px" alt="Certificado"/> |
+| Formulários com condicionais e sessões com PHP | [Certificado](https://www.dio.me/en/certificate/8FC2EED9/share) | <img src="./certificates/img/8FC2EED9.webp" style="width:80px" alt="Certificado"/> |
+| Conhecendo funções e validação de dados com PHP | [Certificado](https://www.dio.me/en/certificate/C7D3479D/share) | <img src="./certificates/img/C7D3479D.webp" style="width:80px" alt="Certificado"/> |
+| Orientação a Objetos, Exceções e Banco de Dados com PHP | [Certificado](https://www.dio.me/en/certificate/33B5A317/share) | <img src="./certificates/img/33B5A317.webp" style="width:80px" alt="Certificado"/> |
+| Desenvolvimento Avançado em PHP | [Certificado](https://www.dio.me/en/certificate/200664FF/share) | <img src="./certificates/img/200664FF.webp" style="width:80px" alt="Certificado"/> |
+| Práticas avançadas em projetos com ReactJS | [Certificado](https://www.dio.me/en/certificate/8D353867/share) | <img src="./certificates/img/8D353867.webp" style="width:80px" alt="Certificado"/> |
+| Desafio prático: Introdução a Testes com Flask | [Certificado](https://www.dio.me/en/certificate/4994718F/share) | <img src="./certificates/img/4994718F.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
