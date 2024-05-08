@@ -125,8 +125,8 @@
 | Desenvolvimento Avançado em PHP | [Certificado](https://www.dio.me/en/certificate/200664FF/share) | <img src="./certificates/img/200664FF.webp" style="width:80px" alt="Certificado"/> |
 | Práticas avançadas em projetos com ReactJS | [Certificado](https://www.dio.me/en/certificate/8D353867/share) | <img src="./certificates/img/8D353867.webp" style="width:80px" alt="Certificado"/> |
 | Desafio prático: Introdução a Testes com Flask | [Certificado](https://www.dio.me/en/certificate/4994718F/share) | <img src="./certificates/img/4994718F.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
+| Desafio prático: IA com JAVA? Construindo um sistema de recomendação! | [Certificado](https://www.dio.me/en/certificate/9C4E26F9/share) | <img src="./certificates/img/9C4E26F9.webp" style="width:80px" alt="Certificado"/> |
+| Desafio prático: Deploying Java em Kubernetes com Quarkus | [Certificado](https://www.dio.me/en/certificate/C9830964/share) | <img src="./certificates/img/C9830964.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
