@@ -109,7 +109,6 @@
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Como se comunicar de forma eficiente e eficaz trabalhando remotamente | [Certificado](https://www.dio.me/en/certificate/6EA83126/share) | <img src="./certificates/img/6EA83126.webp" style="width:80px" alt="Certificado"/> |
 | Como gerenciar seus projetos trabalhando remotamente | [Certificado](https://www.dio.me/en/certificate/D36EA2F3/share) | <img src="./certificates/img/D36EA2F3.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Rotina e produtividade individual no trabalho remoto | [Certificado](https://www.dio.me/en/certificate/D36EA2F3/share) | <img src="./certificates/img/D36EA2F3.webp" style="width:80px" alt="Certificado"/> |
 | Become Remote | [Certificado](https://www.dio.me/en/certificate/06FC65D4/share) | <img src="./certificates/img/06FC65D4.webp" style="width:80px" alt="Certificado"/> |
 | Introdução à LGPD | [Certificado](https://www.dio.me/en/certificate/4B12E2C8/share) | <img src="./certificates/img/4B12E2C8.webp" style="width:80px" alt="Certificado"/> |
@@ -127,20 +126,20 @@
 | Desafio prático: Introdução a Testes com Flask | [Certificado](https://www.dio.me/en/certificate/4994718F/share) | <img src="./certificates/img/4994718F.webp" style="width:80px" alt="Certificado"/> |
 | Desafio prático: IA com JAVA? Construindo um sistema de recomendação! | [Certificado](https://www.dio.me/en/certificate/9C4E26F9/share) | <img src="./certificates/img/9C4E26F9.webp" style="width:80px" alt="Certificado"/> |
 | Desafio prático: Deploying Java em Kubernetes com Quarkus | [Certificado](https://www.dio.me/en/certificate/C9830964/share) | <img src="./certificates/img/C9830964.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
+| Desafio prático: Extraindo dados da web com Python | [Certificado](https://www.dio.me/en/certificate/A18A1FB8/share) | <img src="./certificates/img/A18A1FB8.webp" style="width:80px" alt="Certificado"/> |
+| Aprenda a aplicar testes com Java | [Certificado](https://www.dio.me/en/certificate/3ED2CFF3/share) | <img src="./certificates/img/3ED2CFF3.webp" style="width:80px" alt="Certificado"/> |
+| Desenvolvimento avançado em Java | [Certificado](https://www.dio.me/en/certificate/067CBA23/share) | <img src="./certificates/img/067CBA23.webp" style="width:80px" alt="Certificado"/> |
+| Implementando Collections e Streams com Java | [Certificado](https://www.dio.me/en/certificate/2B990568/share) | <img src="./certificates/img/2B990568.webp" style="width:80px" alt="Certificado"/> |
+| Fundamentos da Computação em Nuvem | [Certificado](https://www.dio.me/en/certificate/D9662CA6/share) | <img src="./certificates/img/D9662CA6.webp" style="width:80px" alt="Certificado"/> |
+| Fundamentos do Azure | [Certificado](https://www.dio.me/en/certificate/9C840B1D/share) | <img src="./certificates/img/9C840B1D.webp" style="width:80px" alt="Certificado"/> |
+| Introdução a Criação de Websites com HTML5 e CSS3 | [Certificado](https://www.dio.me/en/certificate/498119A9/share) | <img src="./certificates/img/498119A9.webp" style="width:80px" alt="Certificado"/> |
+| Conceitos de responsividade e experiência de usuário | [Certificado](https://www.dio.me/en/certificate/C90F7B63/share) | <img src="./certificates/img/C90F7B63.webp" style="width:80px" alt="Certificado"/> |
+| Aprenda o que são Estrutura de Dados e Algoritmos | [Certificado](https://www.dio.me/en/certificate/BAF03113/share) | <img src="./certificates/img/BAF03113.webp" style="width:80px" alt="Certificado"/> |
+| Orientação a objetos em .NET | [Certificado](https://www.dio.me/en/certificate/D80975B7/share) | <img src="./certificates/img/D80975B7.webp" style="width:80px" alt="Certificado"/> |
+| Introdução ao Git e ao Github | [Certificado](https://www.dio.me/en/certificate/3D066FD0/share) | <img src="./certificates/img/3D066FD0.webp" style="width:80px" alt="Certificado"/> |
+| Recriando a Página Inicial do Instagram | [Certificado](https://www.dio.me/en/certificate/626F284D/share) | <img src="./certificates/img/626F284D.webp" style="width:80px" alt="Certificado"/> |
+| Desmistificando map, filter e reduce | [Certificado](https://www.dio.me/en/certificate/D360C052/share) | <img src="./certificates/img/D360C052.webp" style="width:80px" alt="Certificado"/> |
+| Como funciona o async/await | [Certificado](https://www.dio.me/en/certificate/CAEF9EC2/share) | <img src="./certificates/img/CAEF9EC2.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
