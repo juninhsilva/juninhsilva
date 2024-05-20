@@ -48,9 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" style="width:80px" alt="Tomcat"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width:80px" alt="SASS"/>
 
-### My stats
-[![Juninh Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=juninhsilva)](https://github.com/juninhsilva/github-readme-stats)
-
 -----
 ### My courses
 
@@ -226,6 +223,10 @@
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
+
+### My stats
+[![Juninh Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=juninhsilva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👯 I’m looking to collaborate on free software projects...
 - 🤔 I’m looking for help with my projects too. Good ideas are always welcome...
