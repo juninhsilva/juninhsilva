@@ -48,6 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" style="width:80px" alt="Tomcat"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width:80px" alt="SASS"/>
 
+### My stats
+[![Juninh Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=juninhsilva)](https://github.com/juninhsilva/github-readme-stats)
+
 -----
 ### My courses
 
@@ -140,8 +143,8 @@
 | Recriando a Página Inicial do Instagram | [Certificado](https://www.dio.me/en/certificate/626F284D/share) | <img src="./certificates/img/626F284D.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando map, filter e reduce | [Certificado](https://www.dio.me/en/certificate/D360C052/share) | <img src="./certificates/img/D360C052.webp" style="width:80px" alt="Certificado"/> |
 | Como funciona o async/await | [Certificado](https://www.dio.me/en/certificate/CAEF9EC2/share) | <img src="./certificates/img/CAEF9EC2.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
-| Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
+| Entendendo Promises de uma vez por todas | [Certificado](https://www.dio.me/en/certificate/DF45427C/share) | <img src="./certificates/img/DF45427C.webp" style="width:80px" alt="Certificado"/> |
+| Recriando a Interface do Netflix | [Certificado](https://www.dio.me/en/certificate/952F3DC0/share) | <img src="./certificates/img/952F3DC0.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
 | Desmistificando o trabalho remoto | [Certificado](https://www.dio.me/en/certificate/0DAF2C51/share) | <img src="./certificates/img/0DAF2C51.webp" style="width:80px" alt="Certificado"/> |
